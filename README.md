@@ -1,2 +1,2 @@
 # leetcode
-recorder of leetcode
+just for fun
