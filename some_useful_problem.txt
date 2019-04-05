@@ -1,0 +1,3 @@
+7:some thing about bitwise operations
+14:Further Thoughts / Follow up
+20:need to optimize
