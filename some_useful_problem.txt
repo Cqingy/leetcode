@@ -2,3 +2,4 @@
 14:Further Thoughts / Follow up
 20:need to optimize
 28:use kmp algorithm
+66:a more beautiful solution
