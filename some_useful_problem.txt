@@ -1,3 +1,4 @@
+5:https://leetcode.com/articles/longest-palindromic-substring/
 7:some thing about bitwise operations
 14:Further Thoughts / Follow up
 20:need to optimize
